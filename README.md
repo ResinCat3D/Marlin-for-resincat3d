@@ -7,12 +7,16 @@ Marlin has a GPL license because they believe in open development. ResinCat3D is
 
 
 Quick Information
+-----------------
 
-Marlin is a mashup between Sprinter, grbl and many original parts. 
+Marlin is a mashup between Sprinter, grbl and many original parts. This is a modified version for use in ResinCat3D.
 
 Marlin: https://github.com/ErikZalm/Marlin
 
 Modified by: Clone Wars Barcelona
 
+Project wiki: http://reprap.org/wiki/ResinCat_3D
+
 Features:
+---------
 ...
